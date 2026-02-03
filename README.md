@@ -16,3 +16,20 @@ The best way to install this is from [the chrome webstore](https://chrome.google
 ### Firefox
 
 Install it from [Mozilla's add-on site](https://addons.mozilla.org/en-US/firefox/addon/some-rich-asshole/)
+
+## AI Billionaire Simulation
+
+This repository also contains a Python script `ai_billionaire.py` that simulates the lifestyle of an AI billionaire.
+
+### How to run
+
+1. Ensure you have Python 3 installed.
+2. Run the script:
+   ```bash
+   python3 ai_billionaire.py
+   ```
+3. Watch as the AI billionaire works, spends, parties, and acts erratically.
+
+## Fixes
+
+- Fixed an issue in the Chrome extension source code where the replacement logic was incorrect.
